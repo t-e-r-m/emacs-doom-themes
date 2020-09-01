@@ -3,6 +3,16 @@
 [![Build Status](https://travis-ci.org/hlissner/emacs-doom-themes.svg?branch=master&style=flat-square)](https://travis-ci.org/hlissner/emacs-doom-themes)
 [![MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](./LICENSE)
 
+# CHANGES
+
+The following themes have been changed:
+
+* Henna
+    * The highlighting is green.
+
+* outrun-electric
+    * No pesky violet border.
+  
 # doom-themes
 
 DOOM Themes is an opinionated UI plugin and pack of themes extracted from my
