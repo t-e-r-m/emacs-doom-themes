@@ -130,8 +130,6 @@ determine the exact padding."
     :weight 'bold
     :foreground functions)
 
-   (vertical-border :foreground base5)
-
    ;; Centaur tabs
    (centaur-tabs-active-bar-face :background magenta)
    (centaur-tabs-modified-marker-selected :inherit 'centaur-tabs-selected :foreground magenta)
