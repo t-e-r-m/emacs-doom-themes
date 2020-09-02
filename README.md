@@ -13,6 +13,10 @@ The following themes have been changed:
 * outrun-electric
     * No pesky violet border.
   
+**LIST OF MY COMMITS (MODIFICATIONS)**
+
+https://github.com/t-e-r-m/emacs-doom-themes/commits?author=t-e-r-m
+
 # doom-themes
 
 DOOM Themes is an opinionated UI plugin and pack of themes extracted from my
